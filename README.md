@@ -10,7 +10,7 @@
 
 ![Emanoel GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanoelSiilva&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoelSiilva&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu utilizo
 
